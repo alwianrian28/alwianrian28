@@ -17,7 +17,7 @@ I focus on clean UI implementation, scalable architecture, API integration, perf
 - Business Management Dashboard
 
 ## Tech Stack
-React Native · TypeScript · JavaScript · Tailwind CSS · REST API · Firebase · Git · GitHub · Android Studio · Xcode
+React Native · TypeScript · JavaScript · Python · Tailwind CSS · REST API · Firebase · Git · GitHub · Android Studio · Xcode
 
 ## Contact
 Portfolio: https://domain-kamu.com  
