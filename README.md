@@ -1,4 +1,4 @@
-# Hi, I'm Alwian 👋
+# Hi, I'm Alwian Rianto
 
 I'm a Front-End Mobile Developer specializing in React Native, building production-ready mobile applications for business needs.
 
