@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alwi 👋
 
-<!--
-**alwianrian28/alwianrian28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Mobile Developer specializing in React Native, building production-ready mobile applications for business needs.
 
-Here are some ideas to get you started:
+I focus on clean UI implementation, scalable architecture, API integration, performance optimization, and reliable mobile app delivery for Android and iOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- React Native mobile app development
+- UI/UX implementation from design to code
+- API integration
+- Authentication, GPS, camera, and face recognition features
+- Dashboard and mobile app ecosystem development
+
+## Featured Projects
+- Attendance Mobile App + HRIS Dashboard
+- Coffee Shop POS Mobile App
+- Business Management Dashboard
+
+## Tech Stack
+React Native · TypeScript · JavaScript · Tailwind CSS · REST API · Firebase · Git · GitHub · Android Studio · Xcode
+
+## Contact
+Portfolio: https://domain-kamu.com  
+Email: email-kamu@example.com
